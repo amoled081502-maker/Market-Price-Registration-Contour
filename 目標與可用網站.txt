@@ -1,0 +1,11 @@
+目標 : 
+透過公開實價登陸資料
+及GIS等方法做出房價等高線地圖
+
+可用網站 :
+
+1.實價登陸公開資料下載網址
+https://plvr.land.moi.gov.tw/DownloadOpenData
+
+2.住宅價格指數網址
+https://pip.moi.gov.tw/Publicize/Info/E1060?utm_source=chatgpt.com 

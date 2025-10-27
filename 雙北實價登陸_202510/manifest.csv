@@ -1,0 +1,15 @@
+name,schema,description
+a_lvr_land_a_build.xls,schema-build.csv,臺北市建物不動產買賣
+a_lvr_land_a.xls,schema-main.csv,臺北市不動產買賣
+a_lvr_land_a_park.xls,schema-park.csv,臺北市停車場不動產買賣
+a_lvr_land_a_land.xls,schema-land.csv,臺北市土地不動產買賣
+a_lvr_land_b_park.xls,schema-park.csv,臺北市停車場預售屋買賣
+a_lvr_land_b_land.xls,schema-land.csv,臺北市土地預售屋買賣
+a_lvr_land_b.xls,schema-main-sale.csv,臺北市預售屋買賣
+f_lvr_land_a_build.xls,schema-build.csv,新北市建物不動產買賣
+f_lvr_land_a_land.xls,schema-land.csv,新北市土地不動產買賣
+f_lvr_land_a_park.xls,schema-park.csv,新北市停車場不動產買賣
+f_lvr_land_a.xls,schema-main.csv,新北市不動產買賣
+f_lvr_land_b_land.xls,schema-land.csv,新北市土地預售屋買賣
+f_lvr_land_b_park.xls,schema-park.csv,新北市停車場預售屋買賣
+f_lvr_land_b.xls,schema-main-sale.csv,新北市預售屋買賣
